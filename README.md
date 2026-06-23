@@ -831,18 +831,4 @@ Full prompt-by-prompt build log for Phase 1 lives at [`docs/phase1/prompts.md`](
 4. Commit + push
 5. Open PR
 
----
 
-## Author
-
-**Pramod Dutta** — Founder, [The Testing Academy](https://thetestingacademy.com)
-
-- YouTube: [@thetestingacademy](https://youtube.com/@thetestingacademy)
-- LinkedIn: [pramoddutta](https://www.linkedin.com/in/pramoddutta/)
-- Website: [thetestingacademy.com](https://thetestingacademy.com)
-
----
-
-## License
-
-ISC © Pramod Dutta / The Testing Academy
